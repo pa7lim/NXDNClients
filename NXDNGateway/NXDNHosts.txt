@@ -39,6 +39,9 @@
 # 707 RuralMN Reflector
 707	707nxdn.kd0ioe.com  41400
 
+# 710 Dutch NXDN DigitaleVoice 
+710 nxdn.digitalevoice.nl 41400
+
 # 730 Chile NXDN Reflector to BM TG 730
 730	sdradio.cl  41400
 
